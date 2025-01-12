@@ -1,0 +1,22 @@
+{
+    "android":{
+        "version": "1.0.0",
+        "versionCode": "1",
+        "updates": [
+            "New Templates Added",
+            "New Templates Added",
+            "New Templates Added"
+        ],
+      "mandatory":"true"
+    },
+    "ios":{
+        "version": "1.0.0",
+        "versionCode": "1",
+        "updates": [
+            "New Templates Added",
+            "New Templates Added",
+            "New Templates Added"
+        ],
+      "mandatory":"true"
+    }
+}

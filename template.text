@@ -123,12 +123,13 @@
       <div class="section-title">Objective</div>
       {{objective}}
     </div>
-    <!-- Experience Section -->
+    <!-- Experience Section
     <div class="section experience">
       <div class="section-title">Experience</div>
       {{experience}}
     </div>
-
+     -->
+    {{experience}}
     <!-- Education Section -->
     <div class="section education">
       <div class="section-title">Education</div>

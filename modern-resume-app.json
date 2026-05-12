@@ -3,9 +3,8 @@
         "version": "1.2.1",
         "versionCode": "1",
         "updates": [
-            "New Templates Added",
-            "New Templates Added",
-            "New Templates Added"
+            "New Scan Resume added",
+            "Bug fixes"
         ],
       "mandatory":"true"
     },
